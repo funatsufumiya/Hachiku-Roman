@@ -2,6 +2,8 @@
 
 寿司打などを練習するための、英字入力時に薙刀式のローマ字を出力するバージョン
 
+- exe: [Hachiku-Roman.exe](https://github.com/funatsufumiya/Hachiku-Roman/releases/download/v0.0.1/Hachiku-Roman.exe)
+
 -------
 
 Original README
