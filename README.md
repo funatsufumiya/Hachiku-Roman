@@ -1,3 +1,11 @@
+# Hachiku-fork for Roman
+
+寿司打などを練習するための、英字入力時に薙刀式のローマ字を出力するバージョン
+
+-------
+
+Original README
+
 # Hachiku - Windows で薙刀式を使うスクリプト
 2023年7月28日付[【薙刀式】v15fix版、発表](http://oookaworks.seesaa.net/article/500180437.html#gsc.tab=0)
 から、__薙刀式v15fix版__ を Autohotkey に実装しました。  
